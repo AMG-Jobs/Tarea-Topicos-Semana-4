@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriadeClases", "LibreriadeClases\LibreriadeClases.csproj", "{CBB35ED1-CF58-4781-91BF-A85EFF225D78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfNorthWind", "WcfNorthWind\WcfNorthWind.csproj", "{1E2F9D08-843A-4D53-B9CC-4C2A0A5A6CBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CBB35ED1-CF58-4781-91BF-A85EFF225D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBB35ED1-CF58-4781-91BF-A85EFF225D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBB35ED1-CF58-4781-91BF-A85EFF225D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2F9D08-843A-4D53-B9CC-4C2A0A5A6CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2F9D08-843A-4D53-B9CC-4C2A0A5A6CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2F9D08-843A-4D53-B9CC-4C2A0A5A6CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2F9D08-843A-4D53-B9CC-4C2A0A5A6CBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

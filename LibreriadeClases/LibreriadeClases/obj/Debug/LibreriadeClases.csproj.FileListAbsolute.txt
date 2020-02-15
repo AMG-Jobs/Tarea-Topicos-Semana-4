@@ -1,0 +1,12 @@
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\LibreriadeClases.dll.config
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\LibreriadeClases.dll
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\LibreriadeClases.pdb
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\EntityFramework.dll
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\EntityFramework.xml
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\obj\Debug\LibreriadeClases.csprojAssemblyReference.cache
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\obj\Debug\LibreriadeClases.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\obj\Debug\LibreriadeClases.csproj.CopyComplete
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\obj\Debug\LibreriadeClases.dll
+C:\Users\Laboratorio\Source\Repos\Tarea-Topicos-Semana-4\LibreriadeClases\LibreriadeClases\obj\Debug\LibreriadeClases.pdb
